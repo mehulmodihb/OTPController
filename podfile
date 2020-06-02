@@ -1,0 +1,6 @@
+target 'OTPTextfield' do
+   use_frameworks!
+
+  pod 'SwiftMessages'
+  
+end
